@@ -1,0 +1,28 @@
+.downloadLink {
+    position: absolute; 
+    top: 5px; 
+    left: 5px; 
+    background-color: #e5e7eb;
+    color: #000; 
+    padding: 2px;
+    border-radius: 5px; 
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 25px;
+    width: 28px;
+    height: 28px;
+  }
+  .downloadLink:hover{
+    background-color:hsl(7, 90%, 64%) ;
+    color: #fff;
+    opacity: 0.9;
+  }
+.closeImage{
+    position: absolute; 
+    top: 5px; 
+    right: 5px; 
+    padding: 2px;
+    border-radius: 5px; 
+    font-size: 25px;
+    cursor: pointer;
+}

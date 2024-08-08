@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="227fcb84-d76a-4280-a500-36b163ebe22d" name="Changes" comment="update search algorithm - user collect data">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/agendaModule/agenda.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/agendaModule/agenda.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/appointmentModule/appointmentComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/appointmentModule/appointmentComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/settingAppointmentTimeModule/setAppointmentTime.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/settingAppointmentTimeModule/setAppointmentTime.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/containers/SocketContainer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/socketio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/useSocket.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YusufStar&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Medyanes-360/Ofistik---Medyanes-360.git&quot;,
+    &quot;accountId&quot;: &quot;023e7c28-b6de-4b11-b7c8-bcc1fd0851dc&quot;
+  }
+}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2a7eZ9kaHf0NGucwYAqql7sAIyP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yusuf/Desktop/medyanes/Ofistik---Medyanes-360/public&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\YusufStar\\AppData\\Local\\JetBrains\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yusuf\Desktop\medyanes\Ofistik---Medyanes-360\public" />
+      <recent name="C:\Users\Yusuf\Desktop\medyanes\Ofistik---Medyanes-360\containers\Profile" />
+      <recent name="C:\Users\Yusuf\Desktop\medyanes\Ofistik---Medyanes-360\components\dashboard" />
+      <recent name="C:\Users\Yusuf\Desktop\Ofistik---Medyanes-360\app\dashboard\default" />
+      <recent name="C:\Users\Yusuf\Desktop\Ofistik---Medyanes-360\app\dashboard" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yusuf\Desktop\medyanes\Ofistik---Medyanes-360\containers\Profile\components" />
+      <recent name="C:\Users\Yusuf\Desktop\medyanes\Ofistik---Medyanes-360\app\(ProfileLayout)" />
+      <recent name="C:\Users\Yusuf\Desktop\medyanes\Ofistik---Medyanes-360\app\(Profile)" />
+      <recent name="C:\Users\Yusuf\Desktop\medyanes\Ofistik---Medyanes-360\lib\utilities" />
+      <recent name="C:\Users\Yusuf\Desktop\medyanes\Ofistik---Medyanes-360\lib\hooks" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="database" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="227fcb84-d76a-4280-a500-36b163ebe22d" name="Changes" comment="" />
+      <created>1703674098260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703674098260</updated>
+      <workItem from="1703674099292" duration="1916000" />
+      <workItem from="1703676304411" duration="3323000" />
+      <workItem from="1703749758777" duration="948000" />
+      <workItem from="1703753571904" duration="1918000" />
+      <workItem from="1703764262609" duration="2159000" />
+      <workItem from="1703835742182" duration="30000" />
+      <workItem from="1703849008225" duration="77000" />
+      <workItem from="1703849927691" duration="32000" />
+      <workItem from="1703934487121" duration="2204000" />
+      <workItem from="1703936718606" duration="197000" />
+      <workItem from="1703937026533" duration="309000" />
+      <workItem from="1703937384308" duration="705000" />
+      <workItem from="1703944015809" duration="49000" />
+      <workItem from="1704107071073" duration="1000000" />
+      <workItem from="1704108129150" duration="481000" />
+      <workItem from="1704108663810" duration="107000" />
+      <workItem from="1704109147825" duration="586000" />
+      <workItem from="1704116662263" duration="2000" />
+      <workItem from="1704201352210" duration="8000" />
+      <workItem from="1704201594370" duration="258000" />
+      <workItem from="1704205891845" duration="286000" />
+      <workItem from="1704271121073" duration="91000" />
+      <workItem from="1704277475241" duration="2227000" />
+      <workItem from="1704279925530" duration="2017000" />
+      <workItem from="1704281997667" duration="4847000" />
+      <workItem from="1704290085346" duration="3678000" />
+      <workItem from="1704309584691" duration="400000" />
+      <workItem from="1704311899041" duration="67000" />
+      <workItem from="1704353601134" duration="1323000" />
+      <workItem from="1704356285816" duration="1315000" />
+      <workItem from="1704357710917" duration="284000" />
+      <workItem from="1704358015447" duration="240000" />
+      <workItem from="1704358791619" duration="600000" />
+      <workItem from="1704364352326" duration="3360000" />
+      <workItem from="1704370531017" duration="2770000" />
+      <workItem from="1704450798977" duration="671000" />
+      <workItem from="1704451511233" duration="152000" />
+      <workItem from="1704452438638" duration="1304000" />
+      <workItem from="1704454623023" duration="1671000" />
+      <workItem from="1704458225550" duration="85000" />
+      <workItem from="1704460613635" duration="219000" />
+      <workItem from="1704625635232" duration="1002000" />
+      <workItem from="1704632838548" duration="101000" />
+      <workItem from="1704654271227" duration="357000" />
+      <workItem from="1704710821212" duration="569000" />
+      <workItem from="1704713374466" duration="4616000" />
+      <workItem from="1704719182878" duration="1217000" />
+      <workItem from="1704720648645" duration="70000" />
+      <workItem from="1704810100546" duration="16000" />
+      <workItem from="1704886140399" duration="9306000" />
+      <workItem from="1704920265256" duration="1235000" />
+      <workItem from="1704973370441" duration="1247000" />
+      <workItem from="1704976830325" duration="1525000" />
+      <workItem from="1705048504959" duration="139000" />
+      <workItem from="1705059724982" duration="198000" />
+      <workItem from="1705060629991" duration="41000" />
+      <workItem from="1705315553615" duration="1508000" />
+      <workItem from="1705321406864" duration="200000" />
+      <workItem from="1705322328330" duration="427000" />
+      <workItem from="1705388146299" duration="107000" />
+      <workItem from="1705500987525" duration="301000" />
+      <workItem from="1705501305078" duration="16000" />
+      <workItem from="1705501335188" duration="1832000" />
+      <workItem from="1705503698857" duration="104000" />
+      <workItem from="1705512658729" duration="28000" />
+      <workItem from="1705513600600" duration="552000" />
+      <workItem from="1705565196098" duration="350000" />
+      <workItem from="1705572725710" duration="335000" />
+      <workItem from="1705574187830" duration="107000" />
+      <workItem from="1705576526289" duration="101000" />
+      <workItem from="1705579504599" duration="361000" />
+      <workItem from="1705740646328" duration="8000" />
+      <workItem from="1706006623121" duration="1138000" />
+      <workItem from="1706098937530" duration="16000" />
+      <workItem from="1706169311975" duration="936000" />
+      <workItem from="1706262956343" duration="197000" />
+      <workItem from="1706349912070" duration="2177000" />
+      <workItem from="1706358134528" duration="134000" />
+      <workItem from="1706474686614" duration="23000" />
+      <workItem from="1706516588112" duration="957000" />
+      <workItem from="1706519560089" duration="305000" />
+      <workItem from="1706519891299" duration="5000" />
+      <workItem from="1706526600286" duration="743000" />
+      <workItem from="1706531320797" duration="6000" />
+      <workItem from="1707216722776" duration="256000" />
+      <workItem from="1707217020154" duration="130000" />
+      <workItem from="1707217936745" duration="236000" />
+      <workItem from="1707223229713" duration="35000" />
+      <workItem from="1707239911489" duration="76000" />
+      <workItem from="1707309559119" duration="14000" />
+      <workItem from="1714322854702" duration="3579000" />
+      <workItem from="1714910887957" duration="883000" />
+    </task>
+    <task id="LOCAL-00001" summary="images -&gt; public/images">
+      <option name="closed" value="true" />
+      <created>1703680121389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703680121389</updated>
+    </task>
+    <task id="LOCAL-00002" summary="images -&gt; public/images">
+      <option name="closed" value="true" />
+      <created>1703680208586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703680208586</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added sidebar layour">
+      <option name="closed" value="true" />
+      <created>1703753685270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703753685270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bug fix">
+      <option name="closed" value="true" />
+      <created>1703754356653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703754356653</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bug fix">
+      <option name="closed" value="true" />
+      <created>1703755383871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703755383871</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mobile fix">
+      <option name="closed" value="true" />
+      <created>1703765866905</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703765866905</updated>
+    </task>
+    <task id="LOCAL-00007" summary="my media query created">
+      <option name="closed" value="true" />
+      <created>1703765881494</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703765881494</updated>
+    </task>
+    <task id="LOCAL-00008" summary="slider and slider snap fix">
+      <option name="closed" value="true" />
+      <created>1703936730239</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703936730239</updated>
+    </task>
+    <task id="LOCAL-00009" summary="slider and slider snap fix">
+      <option name="closed" value="true" />
+      <created>1703936742213</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703936742213</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix bug">
+      <option name="closed" value="true" />
+      <created>1703937266898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703937266898</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix bug">
+      <option name="closed" value="true" />
+      <created>1703937272994</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703937272994</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix bug">
+      <option name="closed" value="true" />
+      <created>1703937320039</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703937320039</updated>
+    </task>
+    <task id="LOCAL-00013" summary="delete use client in RootLayout">
+      <option name="closed" value="true" />
+      <created>1703937439124</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703937439124</updated>
+    </task>
+    <task id="LOCAL-00014" summary="redeploy">
+      <option name="closed" value="true" />
+      <created>1703938047295</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703938047295</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix containers">
+      <option name="closed" value="true" />
+      <created>1704108027172</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704108027172</updated>
+    </task>
+    <task id="LOCAL-00016" summary="footer arka planı değişti, gereksiz componentlar temizlendi">
+      <option name="closed" value="true" />
+      <created>1704108751529</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704108751529</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix ui">
+      <option name="closed" value="true" />
+      <created>1704109542247</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704109542247</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix mobile dashboard logo">
+      <option name="closed" value="true" />
+      <created>1704109720171</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704109720171</updated>
+    </task>
+    <task id="LOCAL-00019" summary="biz yapmayı seviyoruz kısmı yukarı taşındı">
+      <option name="closed" value="true" />
+      <created>1704205979280</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704205979280</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fix">
+      <option name="closed" value="true" />
+      <created>1704280139821</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1704280139821</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fix dashboard icon">
+      <option name="closed" value="true" />
+      <created>1704280343139</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704280343139</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fix">
+      <option name="closed" value="true" />
+      <created>1704280578492</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1704280578492</updated>
+    </task>
+    <task id="LOCAL-00023" summary="dashboard test">
+      <option name="closed" value="true" />
+      <created>1704281265067</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704281265068</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update search algorithm - user collect data">
+      <option name="closed" value="true" />
+      <created>1704920814779</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1704920814779</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="images -&gt; public/images" />
+    <MESSAGE value="added sidebar layour" />
+    <MESSAGE value="bug fix" />
+    <MESSAGE value="mobile fix" />
+    <MESSAGE value="my media query created" />
+    <MESSAGE value="slider and slider snap fix" />
+    <MESSAGE value="fix bug" />
+    <MESSAGE value="delete use client in RootLayout" />
+    <MESSAGE value="redeploy" />
+    <MESSAGE value="fix containers" />
+    <MESSAGE value="footer arka planı değişti, gereksiz componentlar temizlendi" />
+    <MESSAGE value="fix ui" />
+    <MESSAGE value="fix mobile dashboard logo" />
+    <MESSAGE value="biz yapmayı seviyoruz kısmı yukarı taşındı" />
+    <MESSAGE value="fix dashboard icon" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="dashboard test" />
+    <MESSAGE value="update search algorithm - user collect data" />
+    <option name="LAST_COMMIT_MESSAGE" value="update search algorithm - user collect data" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/dashboard/ButtonList.jsx</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/agendaModule/agenda.jsx</url>
+          <line>11</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
